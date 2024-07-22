@@ -5,7 +5,7 @@ Screenshots:-
 ![music-1](https://user-images.githubusercontent.com/94700514/185797973-5e818f02-b5e6-49ec-b75f-70fcff7d4498.PNG)
 
 ABSTRACT:-
-       Users will be able to listen to the songs that are stored on their smartphone using the music player software that was developed. The music player on the smartphone can be used to play songs that have been downloaded. A music player doesn't need to be connected to the internet. This app is simple to use for music and operates on the Android operating system. It is easy to use because of its straightforward user interface. You can use music to change the state of your phone and it can be played for free.
+       Users can listen to the songs that are stored on their smartphone by using our music player application. The music player can be used to play songs that have been downloaded on the smartphone. Our app doesn't need to be connected to the internet. It is simple to use for music and operates on the Android operating system. It is easy to use because of its straightforward user interface. Try it & share your experience with me.
 
 Features of the music player app include:-
 
